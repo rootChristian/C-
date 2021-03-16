@@ -1,0 +1,7 @@
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\bin\Debug\Exo1.exe.config
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\bin\Debug\Exo1.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\bin\Debug\Exo1.pdb
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\obj\Debug\Exo1.csprojAssemblyReference.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\obj\Debug\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\obj\Debug\Exo1.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo1\Exo1\obj\Debug\Exo1.pdb

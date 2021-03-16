@@ -1,0 +1,5 @@
+Caricare i dati da un file CSV e inserirli sul DB
+
+
+https://blog.cellenza.com/publications/c-an-efl-tutorial-code-first-with-entity-framework/
+

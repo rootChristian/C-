@@ -1,0 +1,8 @@
+
+Log Entry : 12:34:01 mercoledì 3 marzo 2021
+ Welcome,
+ a square of 5cm side has for perimeter 20cm and for area 25cm2.
+ a rectangle 3m long and 1m wide has for perimeter 8m and for area 3m2.
+ a circle of radius 288cm has for area 260444,16cm2. 
+ ...
+-----------------------------------------------

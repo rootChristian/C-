@@ -1,0 +1,7 @@
+
+Log Entry : 12:33:44 mercoledì 3 marzo 2021
+ System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   in System.Convert.ToDouble(String value)
+   in Third.MathLib.CheckParameter(String sms, Double val) in C:\Users\kemgang\Desktop\Basis_C#\CLASSI\Third\Third\MathLib.cs:riga 58
+-----------------------------------------------

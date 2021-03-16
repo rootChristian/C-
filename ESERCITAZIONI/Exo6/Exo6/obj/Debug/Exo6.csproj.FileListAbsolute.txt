@@ -1,0 +1,6 @@
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\bin\Debug\Exo6.exe.config
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\bin\Debug\Exo6.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\bin\Debug\Exo6.pdb
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\obj\Debug\Exo6.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\obj\Debug\Exo6.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo6\Exo6\obj\Debug\Exo6.pdb

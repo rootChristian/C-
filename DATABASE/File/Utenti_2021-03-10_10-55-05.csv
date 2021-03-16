@@ -1,0 +1,4 @@
+id;lastName;firstName;email;password;telefono;stato;lastLogin
+1;christ;KEMG;christ@gmail.com;908fbf4800100d965b29973959ba72b0;15454545411;attivo;
+2;pippo;PLUTO;pippo@gmail.com;d98c867da6c52c810db09307b98aa563;44564665212;attivo;03/10/2021 10:44
+4;pablo;RODRIGUEZ;pablo@gmail.com;08d73df56eabed0bb5dec9346fd8570b;21355562323;attivo;

@@ -1,0 +1,7 @@
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\bin\Debug\Second.exe.config
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\bin\Debug\Second.exe
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\bin\Debug\Second.pdb
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\obj\Debug\Second.exe
+C:\Users\kemgang\Desktop\Basis_C#\Second\Second\obj\Debug\Second.pdb

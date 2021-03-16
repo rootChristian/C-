@@ -1,0 +1,7 @@
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\bin\Debug\Exo4.exe.config
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\bin\Debug\Exo4.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\bin\Debug\Exo4.pdb
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\obj\Debug\Exo4.csprojAssemblyReference.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\obj\Debug\Exo4.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\obj\Debug\Exo4.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo4\Exo4\obj\Debug\Exo4.pdb

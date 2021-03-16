@@ -1,0 +1,7 @@
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\bin\Debug\Exo5.exe.config
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\bin\Debug\Exo5.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\bin\Debug\Exo5.pdb
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\obj\Debug\Exo5.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\obj\Debug\Exo5.exe
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\obj\Debug\Exo5.pdb
+C:\Users\kemgang\Desktop\Basis_C#\ESERCITAZIONI\Exo5\Exo5\obj\Debug\Exo5.csprojAssemblyReference.cache
