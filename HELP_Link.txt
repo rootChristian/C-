@@ -1,0 +1,9 @@
+Caricare i dati da un file CSV e inserirli sul DB
+
+https://blog.cellenza.com/publications/c-an-efl-tutorial-code-first-with-entity-framework/
+
+https://www.entityframeworktutorial.net/code-first/code-based-migration-in-code-first.aspx
+
+lessons to learn entity framework
+https://docs.microsoft.com/it-it/aspnet/mvc/overview/getting-started/
+
