@@ -81,3 +81,7 @@ C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\obj
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
