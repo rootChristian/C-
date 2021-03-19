@@ -5,7 +5,7 @@ using System.Web;
 
 namespace MVC_DB_CSV.Models
 {
-    public class ModelIcp
+    public class Icp
     {
         public int ID { get; set; }
         public string IndirizzoRes { get; set; }

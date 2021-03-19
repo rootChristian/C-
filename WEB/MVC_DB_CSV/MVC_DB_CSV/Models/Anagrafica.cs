@@ -5,7 +5,7 @@ using System.Web;
 
 namespace MVC_DB_CSV.Models
 {
-    public class ModelAnagrafica
+    public class Anagrafica
     {
         public int ID { get; set; }
         public string IDCLIENTE { get; set; }

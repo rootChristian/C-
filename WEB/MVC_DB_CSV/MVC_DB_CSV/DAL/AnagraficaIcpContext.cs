@@ -12,10 +12,11 @@ namespace MVC_DB_CSV.DAL
     {
         public AnagraficaIcpContext() : base("AnagraficaIcpContext")
         {
+            //AnagraficaIcpDB.Up();
         }
 
-        public DbSet<ModelIcp> Icp { get; set; }
-        public DbSet<ModelAnagrafica> Anagrafica { get; set; }
+        public DbSet<Icp> icp { get; set; }
+        public DbSet<Anagrafica> anagrafica { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
