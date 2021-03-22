@@ -158,9 +158,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202103191159472_AnagraficaIcpDB.cs" />
-    <Compile Include="Migrations\202103191159472_AnagraficaIcpDB.designer.cs">
-      <DependentUpon>202103191159472_AnagraficaIcpDB.cs</DependentUpon>
+    <Compile Include="Migrations\202103220755035_AnagraficaIcpDB.cs" />
+    <Compile Include="Migrations\202103220755035_AnagraficaIcpDB.designer.cs">
+      <DependentUpon>202103220755035_AnagraficaIcpDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Anagrafica.cs" />
@@ -221,8 +221,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202103191159472_AnagraficaIcpDB.resx">
-      <DependentUpon>202103191159472_AnagraficaIcpDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202103220755035_AnagraficaIcpDB.resx">
+      <DependentUpon>202103220755035_AnagraficaIcpDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

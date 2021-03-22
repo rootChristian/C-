@@ -92,10 +92,9 @@ C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\bin\System.Web.We
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\bin\Newtonsoft.Json.xml
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\bin\Antlr3.Runtime.pdb
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.Migrations.AnagraficaIcpDB.resources
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csproj.GenerateResource.cache
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csproj.CoreCompileInputs.cache
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csproj.CopyComplete
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.dll
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.pdb
-C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csprojAssemblyReference.cache
-C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.Migrations.AnagraficaIcpDB.resources
-C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csproj.GenerateResource.cache

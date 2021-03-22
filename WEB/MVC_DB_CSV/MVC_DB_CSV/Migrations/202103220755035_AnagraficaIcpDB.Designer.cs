@@ -13,7 +13,7 @@ namespace MVC_DB_CSV.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202103191159472_AnagraficaIcpDB"; }
+            get { return "202103220755035_AnagraficaIcpDB"; }
         }
         
         string IMigrationMetadata.Source
