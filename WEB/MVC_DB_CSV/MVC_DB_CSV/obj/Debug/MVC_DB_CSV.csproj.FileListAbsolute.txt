@@ -98,3 +98,4 @@ C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csproj.CopyComplete
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.dll
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.pdb
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\MVC_DB_CSV\obj\Debug\MVC_DB_CSV.csprojAssemblyReference.cache

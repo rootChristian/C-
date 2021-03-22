@@ -22,7 +22,6 @@ namespace MVC_DB_CSV.DAL
                 string fileIcp = @"C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\File\icp.csv";
                 string fileAnagrafica = @"C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\File\anagrafica.csv";
 
-
                 using (var reader = new StreamReader(fileIcp))
                 {
                     CsvConfiguration config = new CsvConfiguration(System.Globalization.CultureInfo.InvariantCulture)

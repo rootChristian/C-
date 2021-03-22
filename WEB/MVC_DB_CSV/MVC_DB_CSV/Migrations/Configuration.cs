@@ -18,7 +18,7 @@
 
         protected override void Seed(MVC_DB_CSV.DAL.AnagraficaIcpContext context)
         {
-            try
+            /*try
             {
                 string fileIcp = @"C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\File\icp.csv";
                 string fileAnagrafica = @"C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_DB_CSV\File\anagrafica.csv";
@@ -93,7 +93,7 @@
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-            }
+            }*/
         }
     }
 }
