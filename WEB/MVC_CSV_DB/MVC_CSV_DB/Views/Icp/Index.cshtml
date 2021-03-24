@@ -1,0 +1,153 @@
+﻿@model IEnumerable<MVC_CSV_DB.Models.Icp>
+
+@{
+    ViewBag.Title = "Icp";
+}
+
+<h2>LISTS ICP</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IndirizzoRes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipologia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ubicazione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descrizione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataInizioValidita)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataFineValidita)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Esposizione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrdLum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Suolo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitaDiMisura)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lunghezza)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Larghezza)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Elementi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Facce)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtaTass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataVariazione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OraVariazione)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Utente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tributo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IndirizzoRes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipologia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ubicazione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descrizione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataInizioValidita)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataFineValidita)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Esposizione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrdLum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Suolo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitaDiMisura)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lunghezza)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Larghezza)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Elementi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Facce)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QtaTass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataVariazione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OraVariazione)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Utente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tributo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

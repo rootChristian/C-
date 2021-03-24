@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MVC_CSV_DB.Models.Anagrafica>
+
+@{
+    ViewBag.Title = "Anagrafica";
+}
+
+<h2>LISTS ANAGRAFICA</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PIVA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DENOMINAZIONE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MAIL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PIVA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DENOMINAZIONE)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MAIL)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

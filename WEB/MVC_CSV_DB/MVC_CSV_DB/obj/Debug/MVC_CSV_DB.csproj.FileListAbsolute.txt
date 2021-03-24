@@ -99,3 +99,4 @@ C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_CSV_DB\MVC_CSV_DB\obj\Debug\MVC_CSV
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_CSV_DB\MVC_CSV_DB\obj\Debug\MVC_CSV_DB.Migrations.DBAnagraficaIcp.resources
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_CSV_DB\MVC_CSV_DB\obj\Debug\MVC_CSV_DB.csproj.GenerateResource.cache
 C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_CSV_DB\MVC_CSV_DB\obj\Debug\MVC_CSV_DB.Migrations.DBAnagraficaIcp1.resources
+C:\Users\kemgang\Desktop\Basis_C#\C-\WEB\MVC_CSV_DB\MVC_CSV_DB\obj\Debug\MVC_CSV_DB.csprojAssemblyReference.cache

@@ -1,0 +1,50 @@
+﻿@model MVC_CSV_DB.Models.Anagrafica
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Anagrafica</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CF)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CF)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PIVA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PIVA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DENOMINAZIONE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DENOMINAZIONE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MAIL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MAIL)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

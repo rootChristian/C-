@@ -1,0 +1,186 @@
+﻿@model MVC_CSV_DB.Models.Icp
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Icp</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IndirizzoRes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IndirizzoRes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipologia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipologia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubicazione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubicazione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descrizione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descrizione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataInizioValidita)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataInizioValidita)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataFineValidita)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataFineValidita)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Esposizione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Esposizione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrdLum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrdLum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Suolo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Suolo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitaDiMisura)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitaDiMisura)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lunghezza)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lunghezza)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Larghezza)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Larghezza)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Qta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Qta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Elementi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Elementi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Facce)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Facce)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtaTass)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtaTass)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataVariazione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataVariazione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OraVariazione)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OraVariazione)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Utente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Utente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tributo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tributo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
