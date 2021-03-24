@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_CSV_DB", "MVC_CSV_DB\MVC_CSV_DB.csproj", "{882509AB-A932-4C6B-8688-54E127B2033D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{324A626C-8F58-4163-A932-2C7C4F63E233}"
+	ProjectSection(ProjectDependencies) = postProject
+		{882509AB-A932-4C6B-8688-54E127B2033D} = {882509AB-A932-4C6B-8688-54E127B2033D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882509AB-A932-4C6B-8688-54E127B2033D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882509AB-A932-4C6B-8688-54E127B2033D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882509AB-A932-4C6B-8688-54E127B2033D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882509AB-A932-4C6B-8688-54E127B2033D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324A626C-8F58-4163-A932-2C7C4F63E233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324A626C-8F58-4163-A932-2C7C4F63E233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324A626C-8F58-4163-A932-2C7C4F63E233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324A626C-8F58-4163-A932-2C7C4F63E233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8266EB14-94AC-4294-9E85-AD5C73EBC1CE}
+	EndGlobalSection
+EndGlobal
